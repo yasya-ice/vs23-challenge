@@ -38,9 +38,12 @@ npm install
 `
   
 `
-  cd ..
+- Start the project backend - it works at http://localhost:3001
+  
 `
-- Start the project with back and frontend
+node index.js
+`
+- Start the project frontend - it works at http://localhost:3000 , so open another terminal window , check you locate at project root folder, not backend folder and next use start script
   
 `
 npm start
