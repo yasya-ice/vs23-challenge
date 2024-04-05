@@ -111,6 +111,17 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
+.meal-item-actions Button {
+  background-color:#ffc404;
+  color: #1f1a09;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.meal-item-actions Button:hover{
+  color:#46443c;
+}
+
 .cart h2 {
   margin: 1rem 0;
 }
