@@ -1,7 +1,6 @@
 import logo from '../assets/logo.jpg'
 import Button from './UI/Button'
-
-import { CartProvider } from '../store/CartContext';
+import CartContext from '../store/CartContext';
 import { useContext } from 'react';
 
 const Header = () => {
